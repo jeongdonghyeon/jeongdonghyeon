@@ -1,21 +1,9 @@
 <h1 align="center">📄 정동현 포트폴리오</h1>
 
 <p align="center">
-  정동현 (Donghyun Jeong) · IoT · Web 기반 서비스 개발자
+  정동현 (Donghyun Jeong)
 </p>
 
----
-
-## 👋 Intro
-
-안녕하세요! <rm>**"항상 새로운 것을 배우고 도전하며 공유하는"**</rm> 정동현입니다!  
-
-학기 동안 다양한 팀 프로젝트를 통해  
-웹, 모바일, IoT 환경에서 실제로 동작하는 서비스를 구현해왔으며,  
-기술 선택과 문제 해결 과정을 기록하고 공유하며 함께 성장하는 개발자입니다.
-
-저에 대한 더 자세한 내용은 아래 프로젝트를 통해 확인하실 수 있습니다!
----
 
 ## 대외활동 및 수상이력
 
@@ -137,7 +125,7 @@
 
 ## 🧩 Projects
 
-### 🔔 스마트 도어벨 (IoT)
+### 스마트 도어벨 (IoT)
 - Raspberry Pi 기반 방문자 관리 서비스  
 - 얼굴 인식, 방문 기록 저장  
 - RTSP 기반 영상 처리  
@@ -147,7 +135,7 @@
 
 ---
 
-### 🚗 CarSelect 웹 서비스
+###  CarSelect 웹 서비스
 - 차량 견적 비교 웹 서비스  
 - Next.js 기반 풀스택 구현  
 - 사용자 중심 UI/UX 설계
@@ -157,7 +145,7 @@
 
 ---
 
-### 🌙 DreamTracker 모바일 앱
+###  DreamTracker 모바일 앱
 - 개인 목표 및 일상 기록을 위한 안드로이드 모바일 애플리케이션  
 - Java 기반 Android 앱 개발  
 - 사용자 목표·기록 데이터 관리 기능 구현  
@@ -172,8 +160,3 @@
 -  2023-12-14 ITQ 한글엑셀 A등급
 -  2025-01-13 NAVER Cloud Platform Certified Associate
 
----
-
-## 📬 Contact
-- Email: jdh08271@naver.com  
-- GitHub: https://github.com/jeongdonghyeon
