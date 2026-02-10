@@ -1,18 +1,8 @@
-<h1 align="center">📄 정동현 포트폴리오</h1>
+<h1 align="center">정동현 포트폴리오</h1>
 
 <p align="center">
-  정동현 (Donghyun Jeong)
+  <mark>🏫 대전대학교 정보통신.전자공학과 전공</mark>
 </p>
-
-
-## 대외활동 및 수상이력
-
-- NAVER Cloud Academy Literacy 과정 수료
-- 제 4회 CO-Week Academy 교육 수료
-- 25년 상반기 Vision-Up 프로젝트 1위
-- 25년 하반기 Vision-Up 프로젝트 2위
-
----
 
 
 
@@ -123,36 +113,12 @@
 </div>
 
 
-## 🧩 Projects
+## 대외활동 및 수상이력
 
-### 스마트 도어벨 (IoT)
-- Raspberry Pi 기반 방문자 관리 서비스  
-- 얼굴 인식, 방문 기록 저장  
-- RTSP 기반 영상 처리  
-- Firebase Realtime Database을 활용한 문 원격 제어 시스템
-
-👉 Repository: https://github.com/jeongdonghyeon/TinkerBell
-
----
-
-###  CarSelect 웹 서비스
-- 차량 견적 비교 웹 서비스  
-- Next.js 기반 풀스택 구현  
-- 사용자 중심 UI/UX 설계
-- Supabase를 활용한 1:N 실시간 통신 구현
-
-👉 Repository: https://github.com/sagakteok/DJU_VisionUp
-
----
-
-###  DreamTracker 모바일 앱
-- 개인 목표 및 일상 기록을 위한 안드로이드 모바일 애플리케이션  
-- Java 기반 Android 앱 개발  
-- 사용자 목표·기록 데이터 관리 기능 구현  
-- 액티비티 기반 화면 전환 및 앱 구조 설계  
-- 사용자 흐름을 고려한 UI/UX 구성  
-
-👉 Repository: https://github.com/jeongdonghyeon/DreamTraker
+- NAVER Cloud Academy Literacy 과정 수료
+- 제 4회 CO-Week Academy 교육 수료
+- 25년 상반기 Vision-Up 프로젝트 1위
+- 25년 하반기 Vision-Up 프로젝트 2위
 
 ---
 
@@ -160,3 +126,4 @@
 -  2023-12-14 ITQ 한글엑셀 A등급
 -  2025-01-13 NAVER Cloud Platform Certified Associate
 
+---
