@@ -113,17 +113,3 @@
 </div>
 
 
-## 대외활동 및 수상이력
-
-- NAVER Cloud Academy Literacy 과정 수료
-- 제 4회 CO-Week Academy 교육 수료
-- 25년 상반기 Vision-Up 프로젝트 1위
-- 25년 하반기 Vision-Up 프로젝트 2위
-
----
-
-## 📜 자격증
--  2023-12-14 ITQ 한글엑셀 A등급
--  2025-01-13 NAVER Cloud Platform Certified Associate
-
----
